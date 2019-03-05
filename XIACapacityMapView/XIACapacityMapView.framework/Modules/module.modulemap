@@ -1,0 +1,6 @@
+framework module XIACapacityMapView {
+  umbrella header "XIACapacityMapView.h"
+
+  export *
+  module * { export * }
+}
