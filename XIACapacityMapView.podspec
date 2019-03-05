@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
 
   s.name         = "XIACapacityMapView"
-  s.version      = "V1.0.0"
+  s.version      = "1.0"
   s.summary      = "XIACapacityMapView.sdk"
   s.description  = <<-DESC
                         功能分布图-正多边形XIACapacityMapView.sdk
